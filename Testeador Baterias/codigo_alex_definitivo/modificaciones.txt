@@ -1,0 +1,56 @@
+MODIFICACION 1
+
+ahora se puede agregar nuevas baterias modificando los siguientes dos arreglos:
+
+
+
+char* batt[] = {"Li-ion 3.7v", "Li-ion 7.2v", "Ni-MH", "Ni-Cd", "Lead 6v", "Lead 12v", "SE18-12"};
+
+float voltage[] = {3.0, 5.8, 0.9, 1.1, 5.8, 11.6, 10.8};
+
+
+
+En el arreglo 'batt' se coloca el nombre de la bateria.
+En el arreglo 'voltage' se coloca el voltaje de cutoff del testeo para esa bateria.
+
+
+Para que esto se pueda hacer se tuvo que modificar la linea del setup:
+
+	if (battCount > 5) battCount = 0;
+
+	por
+
+	if (battCount > sizeof(voltage)/sizeof(float)-1) battCount = 0;
+	
+--------------------------------
+	
+MODIFICACION 2
+
+Limite de corriente de seteo se cambio a 3amp en el setup
+
+	target_mA = map(analogRead(manual_value), 0, 1023, 0, 3000);
+
+
+--------------------------------
+
+MODIFICACION 3
+
+Correccion a la medicion de corriente multiplicando por un factor en la funcion READINA219
+
+
+	float current_factor = 1.18;             // factor empirico para que muestre corriente correcta
+	
+	
+--------------------------------
+	
+LIBRERIAS
+
+LiquidCrystal v1.0.7
+Adafruit_INA219 v1.2.3
+TimerOne v1.1.1
+
+Disponibles desde el gestor de librerias de arduino
+
+Tools -- Manage libraries
+
+
