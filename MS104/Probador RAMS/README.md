@@ -1,6 +1,6 @@
-# Testeador de RAM de 64kbytes para MS101 - MS104
+# Probador de RAM de 64kbytes para MS101 - MS104
 
-El testeador tiene capacidad de verificar hasta 64kbytes de memoria RAM, pero lo hace por sectores conformados por 8kbytes.
+El probador tiene capacidad de verificar hasta 64kbytes de memoria RAM, pero lo hace por sectores conformados por 8kbytes.
 En total hay 8 sectores.
 
 La decisión de usar esta delimitación de sectores es debido al mapeo de memoria de la 101-104:
