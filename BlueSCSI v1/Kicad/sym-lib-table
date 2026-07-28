@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "bluepill_scsi-rescue")(type "KiCad")(uri "${KIPRJMOD}/bluepill_scsi-rescue.kicad_sym")(options "")(descr ""))
+)
