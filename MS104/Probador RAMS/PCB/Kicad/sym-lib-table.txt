@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "fubarino")(type "KiCad")(uri "${KIPRJMOD}/fubarino.kicad_sym")(options "")(descr ""))
+  (lib (name "s100")(type "KiCad")(uri "${KIPRJMOD}/s100.kicad_sym")(options "")(descr ""))
+)
