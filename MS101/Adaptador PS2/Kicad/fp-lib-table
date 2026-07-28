@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Bluepill")(type "KiCad")(uri "${KIPRJMOD}/Bluepill.pretty")(options "")(descr ""))
+  (lib (name "Connector_Mini-DIN")(type "KiCad")(uri "${KIPRJMOD}/Connector_Mini-DIN.pretty")(options "")(descr ""))
+)
