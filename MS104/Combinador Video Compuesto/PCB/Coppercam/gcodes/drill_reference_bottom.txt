@@ -1,0 +1,28 @@
+%
+( CopperCAM - 21/07/2023 / ISO-Mill Output )
+( C:\COPPERCAM\CopperCAM.iso created 04/03/2026 at 09:05 )
+( Workpiece dimensions: 279.64 x 65.55 x 1 mm )
+G21 G40 G54
+G80 G90 G94
+( Tool #5 "Basic Drill" / Diameter 2 mm )
+T5 M06
+M03 S12000
+G00 X0 Y64
+G00 Z0
+G01 F60 Z-5
+G00 Z2
+G00 Y0
+G00 Z0
+G01 F60 Z-5
+G00 Z2
+G00 X114
+G00 Z0
+G01 F60 Z-5
+G00 Z2
+G00 Y64
+G00 Z0
+G01 F60 Z-5
+G00 Z2
+M05
+M02
+%
