@@ -1,5 +1,9 @@
 # Probador de RAM de 64kbytes para MS101 - MS104
 
+<img width="1500" alt="ramtester" src="https://github.com/user-attachments/assets/ead72376-ab17-40c6-b3a7-c28bf2df7c91" />
+
+
+
 El probador tiene capacidad de verificar hasta 64kbytes de memoria RAM, pero lo hace por sectores conformados por 8kbytes.
 En total hay 8 sectores.
 
