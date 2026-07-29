@@ -1,5 +1,8 @@
 # Interfaz de Teclado PS/2 a Protocolo Paralelo Microsistemas
 
+<img width="1500" alt="B2E86E17-FF16-48EB-AA83-2C2A9AF8E818" src="https://github.com/user-attachments/assets/81200773-7a56-4c53-b267-295a9c731830" />
+
+
 Este proyecto implementa un conversor de hardware y software diseñado para leer eventos de un teclado estándar PS/2, interpretarlos, y traducirlos a un bus de datos paralelo de 8 bits propietario (estándar "Microsistemas"). 
 
 El sistema gestiona la recepción asíncrona por interrupciones, decodifica los *scancodes* (incluyendo el estado de modificadores como Shift y Bloq Mayús), los traduce al estándar ASCII, y finalmente mapea dicho ASCII a la codificación binaria requerida por el hardware de destino.
