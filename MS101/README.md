@@ -26,6 +26,13 @@ Si luego de reiterados intentos el problema no se soluciona, puede que estemos a
 Apagar la máquina y recolocar RAM y CPU. Si no se soluciona, posiblemente el problema sea de un integrado de memoria RAM.
 
 
+
+### La MS101 muestra 2 caracteres repetidos, o un patrón detectable de caracteres en movimiento. 
+
+El peor error posible. Puede significar un problema en alguna ROM 2708. Se puede probar recolocarlas en sus zócalos y ver si se soluciona. 
+Tambíen puede significar un cortocircuito en la tarjeta de teclado y disco. Un integrado muy delicado que tira ese tipo de error cuando se rompe es el UPD372.
+
+
 ### Regla de oro
 *Cualquier recolocación de tarjetas se debe hacer con la máquina apagada*
 
