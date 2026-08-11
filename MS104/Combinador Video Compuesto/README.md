@@ -24,7 +24,7 @@ Por otro lado, para el control del vertical, en el video compuesto tradicional s
 <img width="800" alt="videopradao" src="https://github.com/alexpal03/Lab-Arqueologia-Computacional/blob/main/MS104/Combinador%20Video%20Compuesto/Imagenes%20utiles/csync_and.png" />
 
 
-Una vez conseguido esto, solo es necesario sumar la señal CSYNC con la iluminación para obtener el video compuesto. La iluminación debe quedar con 0.7Vpp y el CSYNC con 0.3Vpp.
+Una vez conseguido esto, solo es necesario sumar la señal CSYNC con la iluminación para obtener el video compuesto. La iluminación debe quedar con 0.7Vpp y el CSYNC con 0.3Vpp. Cabe aclarar que el transistor que se ocupa de realizar esta última usma debe ser un transistor de alta frecuencia, de lo contrario la señal de iluminación puede verse alterada. En esta placa se utilizó el [KPS10](https://www.alldatasheet.es/datasheet-pdf/pdf/53500/FAIRCHILD/KSP10.html)
 
 
 
