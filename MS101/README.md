@@ -5,7 +5,7 @@
 # Mañas y soluciones a problemas
 
 ### La MS101 muestra rayas erráticas, muestra las letras borrosas, o no muestra NADA?
-Generalmente esto no es un problema de la computadora en sí, sino que es un problema de algún retorno de masa que falla (creo yo) que en el monitor. A veces se soluciona dándole algún "golpesito" en la tapa, o apagando la máquina, dejandola enfriar unos minutos y volviéndola a encender. Si ninguno de estos sofisticados métodos funciona, se tendrá que recurrir a:
+Generalmente esto no es un problema de la computadora en sí, sino que es un problema de algún retorno de masa que falla (creo yo) en el monitor. A veces se soluciona dándole algún "golpesito" en la tapa, o apagando la máquina, dejandola enfriar unos minutos y volviéndola a encender. Si ninguno de estos sofisticados métodos funciona, se tendrá que recurrir a:
 1) Apagar la máquina y abrir la tapa
 2) Desatornillar el rack de tarjetas
 3) Remover la tarjeta de memoria RAM
