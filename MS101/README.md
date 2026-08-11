@@ -11,6 +11,9 @@ Generalmente esto no es un problema de la computadora en sí, sino que es un pro
 3) Remover la tarjeta de memoria RAM
 4) Encender la máquina, esperar unos segundos, y hacer movimientos sútiles en el rack hasta que la imágen mejore. Debería verse la típica pantalla de caracteres aleatorios debido a la falta de memoria RAM.
 5) Volver a atornillar el rack, puede hacerse con mucho cuidado con la máquina encendida para ver que la imagen no vuelva a perderse.
+6) Apagar y volver a encender la máquina un par de veces para ver que la imagen se mantenga.
+7) Recolocar la tarjeta RAM con la máquina apagada
+8) Encender y el problema debería estar resuelto
 
 ### La MS101 muestra `ERR.MEM.DIR` / `EXCED.CAPACID.TECLADO`
 
