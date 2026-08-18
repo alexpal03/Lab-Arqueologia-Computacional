@@ -7,6 +7,11 @@ Este proyecto implementa un conversor de hardware y software diseñado para leer
 
 El sistema gestiona la recepción asíncrona por interrupciones, decodifica los *scancodes* (incluyendo el estado de modificadores como Shift y Bloq Mayús), los traduce al estándar ASCII, y finalmente mapea dicho ASCII a la codificación binaria requerida por el hardware de destino.
 
+
+
+## Nota:
+Las teclas de funciones especiales y los shift no fueron nunca probados. Se presupone que el código funcionará. En todo caso, se debería preparar una disquetera para la MS101, correrle el sistema operativo, y luego probar que todas las funcionalidades se ejecuten correctamente.
+
 ---
 
 ## 🏗️ Arquitectura del Sistema
