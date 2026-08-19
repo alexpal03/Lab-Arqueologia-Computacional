@@ -40,3 +40,4 @@ La decisión de usar esta delimitación de sectores es debido al mapeo de memori
    A continuación se muestra un mapa de memoria de la MS104 y como se deben interpŕetar los resultados en el mapa
 
    
+<img width="1500" alt="Lectura de resultados_page-0001" src="https://github.com/user-attachments/assets/75aa972f-f9fb-4ede-bbd9-07ea715e16da" />
