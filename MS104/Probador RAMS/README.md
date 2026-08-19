@@ -41,3 +41,5 @@ La decisión de usar esta delimitación de sectores es debido al mapeo de memori
 
    
 <img width="1500" alt="Lectura de resultados_page-0001" src="https://github.com/user-attachments/assets/75aa972f-f9fb-4ede-bbd9-07ea715e16da" />
+
+[Con mas detalle en este link](https://github.com/alexpal03/Lab-Arqueologia-Computacional/blob/main/MS104/Probador%20RAMS/Lectura%20de%20resultados.pdf)
