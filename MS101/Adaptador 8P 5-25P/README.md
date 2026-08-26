@@ -44,6 +44,8 @@ A continuación se adjuntan fotos modelo.
 
 2) Conectar correctamente el adaptador de cables, como se ve en la imagen.
 
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/7f438592-f1d9-4640-9276-33072d267b6f" />
+
   
 3) Acostar la disquetera, ya que por efectos de la gravedad solo funciona si se pone de forma horizontal. Se recomienda poner un cartón para no dañar la tarjeta PCB. **Nota**: *tener cuidado al mover la disquetera, intentar levantarla y no arrastrarla ya que se esto puede tirar de los pines de los jumpers y es muy facil romperlos*.
    
@@ -74,7 +76,7 @@ A continuación se adjuntan fotos modelo.
 
 ## Puesta en marcha de la CopyStation para 5.25''
 
-1) Se debe abrir la PC y reconectar el cable plano a la disquetera de 5.25''. **Conectar el lado GND con el plano de masa de la disquetera**.
+1) Se debe abrir la PC y reconectar el cable plano a la disquetera de 5.25''. La disquetera con la que se probóoriginalmente fue con al primera de arriba. **Conectar el lado GND con el plano de masa de la disquetera**.
 
 
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/2f2e2db1-13b1-432e-b6af-ddb21a891892" />
