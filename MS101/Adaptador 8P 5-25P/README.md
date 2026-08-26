@@ -76,7 +76,7 @@ A continuación se adjuntan fotos modelo.
 
 ## Puesta en marcha de la CopyStation para 5.25''
 
-1) Se debe abrir la PC y reconectar el cable plano a la disquetera de 5.25''. La disquetera con la que se probóoriginalmente fue con al primera de arriba. **Conectar el lado GND con el plano de masa de la disquetera**.
+1) Se debe abrir la PC y reconectar el cable plano a la disquetera de 5.25''. La disquetera con la que se probóoriginalmente fue con al primera de arriba.
 
 
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/2f2e2db1-13b1-432e-b6af-ddb21a891892" />
