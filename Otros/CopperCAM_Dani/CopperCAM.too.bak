@@ -1,0 +1,117 @@
+[Rack #1]
+RackNumber=1
+RackName=
+
+[Tool #1]
+Number=1
+Name=Basic Engraver
+Diameter=0.1
+Profile=Conical
+ConicalAngle=30
+ConicalMinDiam=0.1
+RotationSpeed=12000
+Zmax=0.2
+AbsDrillSpeed=480
+RelDrillSpeed=None
+Laser=No
+Substitute=None
+
+[Tool #2]
+Number=2
+Name=Basic Cutter
+Diameter=2.25
+Profile=Cylindrical
+ConicalAngle=None
+ConicalMinDiam=None
+RotationSpeed=12000
+Zmax=0.5
+AbsDrillSpeed=600
+RelDrillSpeed=None
+Laser=No
+Substitute=None
+
+[Tool #3]
+Number=3
+Name=Basic Drill
+Diameter=0.6
+Profile=Cylindrical
+ConicalAngle=None
+ConicalMinDiam=None
+RotationSpeed=12000
+Zmax=2
+AbsDrillSpeed=600
+RelDrillSpeed=None
+Laser=No
+Substitute=None
+
+[Tool #4]
+Number=4
+Name=Basic Drill
+Diameter=0.7
+Profile=Cylindrical
+ConicalAngle=None
+ConicalMinDiam=None
+RotationSpeed=12000
+Zmax=2
+AbsDrillSpeed=600
+RelDrillSpeed=None
+Laser=No
+Substitute=None
+
+[Tool #5]
+Number=5
+Name=Basic Drill
+Diameter=0.8
+Profile=Cylindrical
+ConicalAngle=None
+ConicalMinDiam=None
+RotationSpeed=12000
+Zmax=2
+AbsDrillSpeed=600
+RelDrillSpeed=None
+Laser=No
+Substitute=None
+
+[Tool #6]
+Number=6
+Name=Basic Drill
+Diameter=0.9
+Profile=Cylindrical
+ConicalAngle=None
+ConicalMinDiam=None
+RotationSpeed=12000
+Zmax=2
+AbsDrillSpeed=600
+RelDrillSpeed=None
+Laser=No
+Substitute=None
+
+[Tool #7]
+Number=7
+Name=Basic Drill
+Diameter=1
+Profile=Cylindrical
+ConicalAngle=None
+ConicalMinDiam=None
+RotationSpeed=8000
+Zmax=2
+AbsDrillSpeed=600
+RelDrillSpeed=None
+Laser=No
+Substitute=None
+
+[Tool #8]
+Number=8
+Name=Basic Engraver
+Diameter=0.2
+Profile=Conical
+ConicalAngle=15
+ConicalMinDiam=0.2
+RotationSpeed=8000
+Zmax=0.2
+AbsDrillSpeed=600
+RelDrillSpeed=None
+Laser=No
+Substitute=None
+
+[EOF]
